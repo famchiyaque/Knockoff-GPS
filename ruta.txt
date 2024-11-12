@@ -1,6 +1,0 @@
-Esta es tu ruta optima: 
-Empezando en: Home
-1. Parque Central
-2. DisneyLand
-3. El Cine
-y ahi estas, con tan solo 3 movimientos!
